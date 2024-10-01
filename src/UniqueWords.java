@@ -1,4 +1,10 @@
-
+/* Project: Lab9
+* Class: MUTunes.java
+* Author: Full Name
+* Date: April 15, 2014
+* This program prints out information about a music collection, including the
+* names of tracks, their artists, and length of each track.
+*/
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -11,7 +17,7 @@ public class UniqueWords
 		@return number of unique strings in the list
    */
 	public static int countUnique(ArrayList<String> list) {
-        HashSet<String> unique = new HashSet<>(list);//Declares hashset
+        HashSet<String> unique = new HashSet<>(list);//Declares hashSet
         return unique.size();//Return # of unique elements
     }
 
