@@ -1,11 +1,9 @@
-/* Project: Lab9
-* Class: MUTunes.java
-* Author: Full Name
-* Date: April 15, 2014
-* This program prints out information about a music collection, including the
-* names of tracks, their artists, and length of each track.
+/* Project: Lab 2
+* Class: UniqueWords.java
+* Author: Shanti Wright
+* Date: September 30, 2024
+* This program counts the number of unique strings in a list
 */
-
 import java.util.ArrayList;
 import java.util.HashSet;
 
